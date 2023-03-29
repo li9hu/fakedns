@@ -1,2 +1,1 @@
-用于dnsrebiding
-
+GO DNSRebinding
